@@ -1,5 +1,8 @@
 
-## Mitzi's Profolio 
+## Mitzi Bustamante 
+##  About Me 
+A college student in a small private Univerity in Minnesota, University of St. Thomas.
+
 
 You can use the [editor on GitHub](https://github.com/Mitzivera/mitzivera.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
